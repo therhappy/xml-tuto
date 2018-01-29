@@ -1,7 +1,7 @@
 # xml-tuto
 This is an eXtreme MultiLabel Classification tutorial notebook for Machine Learners.
 
-It is designed to approach the deep XML problem in the most simple way possible: predictors are simple and quick and embedding is approached with a linear projection ... but it works surprisingly well!
+It is designed to approach the deep XML problem in the most simple way possible: predictors are simple and quick and embedding is approached with a linear projection ... but it works surprisingly well! [See the notebook here ...](https://github.com/therhappy/xml-tuto/blob/master/eXtreme%20Multilabel%20Classification%20Notebook%20-%20EN.ipynb)
 
 ### New YouTube video!
 If you want a quick look into XML, you can see my new video here:
